@@ -4,7 +4,6 @@
 - **Frontend**: React, TypeScript
 - **Backend**: Node.js, TypeScript, Express
 - **Database**: NoSQL (MongoDB) or SQL (PostgreSQL)
-- **Web Scraping**: Playwright
 - **AI Integration**: OpenAI GPT-3 or other AI API
 
 ### Project Structure:
@@ -87,13 +86,12 @@
 # Full Stack Todo Application
 
 ## Overview
-This project is a full-stack Todo application built with React and TypeScript on the frontend, Node.js and Express on the backend, and MongoDB or PostgreSQL for the database. The application also includes web scraping with Playwright and AI integration for suggesting todo descriptions.
+This project is a full-stack Todo application built with React and TypeScript on the frontend, Node.js and Express on the backend, and MongoDB or PostgreSQL for the database. The application also includes AI integration for suggesting todo descriptions.
 
 ## Technologies
 - **Frontend**: React, TypeScript
 - **Backend**: Node.js, Express, TypeScript
 - **Database**: MongoDB/PostgreSQL
-- **Web Scraping**: Playwright
 - **AI Integration**: OpenAI API
 
 ## Getting Started
