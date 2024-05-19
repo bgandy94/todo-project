@@ -65,18 +65,17 @@
      - Implement a service that sends user input to the AI API and retrieves suggested descriptions for todo items.
      - Integrate the AI service with the frontend and backend.
 
-   - **Testing and Deployment**
+   - **Testing**
      - Write unit tests and integration tests for both frontend and backend.
-     - Set up continuous integration using GitHub Actions or another CI service.
-     - Deploy the application to a cloud provider (e.g., Heroku, Vercel).
 
    - **Final Review and Extra Credit**
      - Review the entire project, clean up the codebase, and ensure all features work as expected.
      - Document the project setup and usage instructions in the README.md file.
+     - Set up continuous integration using GitHub Actions or another CI service.
+     - Deploy the application to a cloud provider (e.g., Heroku, Vercel).
      - Optional: Add more advanced features or optimizations (e.g., offline support, advanced filtering and sorting of todo items).
 
 ### Additional Resources
-- **Playwright Documentation**: https://playwright.dev/docs/intro
 - **OpenAI API Documentation**: https://beta.openai.com/docs/
 - **Continuous Integration with GitHub Actions**: https://docs.github.com/en/actions
 
