@@ -10,7 +10,7 @@
 
 1. **Introduction and Setup**
    - **Introduction to Git and GitHub**
-     - Git Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - Git Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics (if attempting, go through sections 1, 2, 3, and 6. 6 is optional in lieu of the Github Guide in the next step
      - GitHub Guide: https://guides.github.com/activities/hello-world/
    - **JavaScript and TypeScript Basics**
      - JavaScript Basics: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
@@ -19,7 +19,7 @@
      - Introduction to SQL: https://www.w3schools.com/sql/sql_intro.asp
      - Introduction to NoSQL: https://www.mongodb.com/nosql-explained
    - **React Basics**
-     - React Documentation: https://reactjs.org/docs/getting-started.html
+     - React Documentation: https://react.dev
    - **Node.js and Express Basics**
      - Node.js Guide: https://nodejs.dev/learn
      - Express.js Guide: https://expressjs.com/en/starter/installing.html
@@ -50,23 +50,24 @@
      - Implement the main UI components (TodoList, TodoItem, AddTodoForm, EditTodoForm).
      - Implement form validation and user-friendly error messages.
 
-   - **Backend Development**
-     - Set up a NodeJS server and connect to the database.
-     - Create RESTful APIs for CRUD operations (Create, Read, Update, Delete) for todo items.
-     - Implement request validation and error handling.
-
    - **Database Integration**
      - Design the database schema.
      - Implement database models and data access logic.
      - Test database operations with sample data.
+   
+   - **Backend Development**
+     - Set up a NodeJS server and connect to the database.
+     - Create RESTful APIs for CRUD operations (Create, Read, Update, Delete) for todo items.
+     - Implement request validation and error handling.
+   
+   - **Testing**
+     - Write unit tests and integration tests for both frontend and backend.
 
    - **AI Integration**
      - Set up an account with an AI service like OpenAI.
      - Implement a service that sends user input to the AI API and retrieves suggested descriptions for todo items.
      - Integrate the AI service with the frontend and backend.
 
-   - **Testing**
-     - Write unit tests and integration tests for both frontend and backend.
 
    - **Final Review and Extra Credit**
      - Review the entire project, clean up the codebase, and ensure all features work as expected.
