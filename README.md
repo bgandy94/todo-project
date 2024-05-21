@@ -16,7 +16,7 @@
 1. **Introduction and Setup**
 
    - **Introduction to Git and GitHub**
-     - Git Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics (if attempting, go through sections 1, 2, 3, and 6. 6 is optional in lieu of the Github Guide in the next step
+     - Git Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics (if attempting, go through sections 1, 2, 3, and 6. 6 is optional in lieu of the Github Guide in the next step)
      - GitHub Guide: https://guides.github.com/activities/hello-world/
    - **JavaScript and TypeScript Basics**
      - JavaScript Basics: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
